@@ -15,7 +15,7 @@ This is a Web based application which combines all the required healthcare servi
 ## Team Information:
     Md. Kamrul Islam Asik - 1712953642
     Shadman Sameer - 1712815642
-
+    Salman Rahman - 1722119042
 
 ## Tools/framework used: 
 - React Js
